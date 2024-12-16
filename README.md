@@ -2,4 +2,4 @@ Vending Machine Kelompok Progamer Heker: -Akief Maulana Aulia (241401096) -Argha
 
 Link GDrive: https://drive.google.com/drive/folders/14QDJKIMaDsGdxyERxCHHgNd9Gj40QZtv
 
-Link YT:
+Link YT: https://youtu.be/nQ8QLJ62Drc
